@@ -2,7 +2,7 @@
 **Objective**: document and build the tooling to create a conference and journal
 management system with a federated architecture.
 
-## Strawman Goals:
+## Strawman Goals
 * One-button install.
 * Aggregation and information sharing between "Linked Chairs".
 * Human and machine-friendly. Aim for humans first, machines second design.
@@ -10,4 +10,4 @@ management system with a federated architecture.
 * It should be able to consume scholarly articles like [https://github.com/csarven/linked-research](Linked Research) whether a copy or an URL is provided.
 * ... data-mining and analysis features.
 
-See also the [https://github.com/csarven/linked-chairs/wiki][wiki].
+See also the [https://github.com/csarven/linked-chairs/wiki]()wiki).
